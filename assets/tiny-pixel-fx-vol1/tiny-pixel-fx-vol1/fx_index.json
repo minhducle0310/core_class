@@ -1,0 +1,302 @@
+[
+ {
+  "name": "hit_spark_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "hit_spark_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "hit_spark_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "hit_spark_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "hit_spark_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "impact_ring_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "impact_ring_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "impact_ring_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "impact_ring_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "impact_ring_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "explosion_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "explosion_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "explosion_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "explosion_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "explosion_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "slash_arc_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "slash_arc_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "slash_arc_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "slash_arc_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "slash_arc_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "dash_dust_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "dash_dust_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "dash_dust_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "dash_dust_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "dash_dust_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "sparkle_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "sparkle_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "sparkle_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "sparkle_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "sparkle_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "heal_plus_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "heal_plus_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "heal_plus_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "heal_plus_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "heal_plus_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "zap_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "zap_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "zap_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "zap_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "zap_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "parry_flash_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "parry_flash_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "parry_flash_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "parry_flash_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "parry_flash_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "fire_burst_ember",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "fire_burst_frost",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "fire_burst_venom",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "fire_burst_arcane",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ },
+ {
+  "name": "fire_burst_mono",
+  "frames": 8,
+  "size": 32,
+  "fps_suggested": 14
+ }
+]
